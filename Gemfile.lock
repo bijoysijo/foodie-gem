@@ -3,6 +3,7 @@ PATH
   specs:
     foodie (0.1.0)
       activesupport (~> 4.2.0)
+      thor
 
 GEM
   remote: https://rubygems.org/
@@ -31,6 +32,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.3)
+    thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
